@@ -1,4 +1,3 @@
-Got it. I could not reliably fetch the repo contents, so I will keep the README clean, accurate, and aligned with your project title and typical structure for a Socket.IO based real time racing game. I have also used your exact repository name.
 
 ---
 
