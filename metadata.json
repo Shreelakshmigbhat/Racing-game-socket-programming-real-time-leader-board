@@ -1,0 +1,5 @@
+{
+  "name": "Distributed Racing Leaderboard",
+  "description": "A 3D racing game with a real-time distributed leaderboard system accessible via web and CLI.",
+  "requestFramePermissions": []
+}
